@@ -1,2 +1,5 @@
-#Stochastic gradient descent, SGD 随机梯度下降
+#Stochastic gradient descent, SGD, 随机梯度下降
 https://www.zhihu.com/question/264189719
+#Perceptron: 感知机. Input:0 or 1
+#Sigmoid neuron: Input:between 0 and 1
+Sigmoid neurons are similar to perceptrons, but modified so that small changes in their weights and bias cause only a small change in their output. 
